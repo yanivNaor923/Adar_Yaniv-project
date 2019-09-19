@@ -1,7 +1,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-    <body style="background-color:Navy ;">
+    <body style="background-color:black ;">
 		 <title>Adar_Yaniv-Hit</title>  
 			<link href='https://fonts.googleapis.com/css?family=Niconne' rel='stylesheet'>
           <%! int n,sum=0;
