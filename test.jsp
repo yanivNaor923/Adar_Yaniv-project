@@ -3,7 +3,7 @@
 <html>
     <body style="background-color:black ;">
 		 <title>Adar_Yaniv-Hit</title>  
-			<link href='https://fonts.googleapis.com/css?family=Niconne' rel='stylesheet'>
+			
           <%! int n,sum=0;
                String name,birthdate;
           %>
@@ -12,8 +12,8 @@
 		  <% 
 		  name= request.getParameter("name");
 		  out.println(name);
-		  %>
-		  <br>
+		  %> </p>
+		  <p style="font-family:'Calibri';font-size:50px;color:pink">
 		  Your life path number is:      <!--<font size="9" color="pink"> --> 
           <%birthdate= request.getParameter("birthdate");
 			n=birthdate.length();
