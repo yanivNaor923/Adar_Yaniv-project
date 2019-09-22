@@ -1,7 +1,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-    <body style="background-color:black ;">
+    <body style="background-color:blue ;">
 		 <title>Adar_Yaniv-Hit</title>  
 			
           <%! int n,sum=0;
